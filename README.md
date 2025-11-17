@@ -1,4 +1,4 @@
-# zameen-Eda-Project
+# Zameen-Eda-Project
 This project performs an in-depth Exploratory Data Analysis (EDA) on property listings from Zameen.com, Pakistan’s largest real estate platform.
 The goal is to understand the pricing patterns, property characteristics, market trends, and key insights that influence property value across different property types.
 
@@ -63,4 +63,4 @@ Deploy a price recommendation tool
 This project helps uncover meaningful patterns in Pakistan’s real estate market using EDA techniques.
 The insights can help buyers, sellers, investors, and real estate professionals make data-driven decisions.
 
-# If you find this analysis useful, feel free to star the repository and contribute!
+**If you find this analysis useful, feel free to star the repository and contribute!**
